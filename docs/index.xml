@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>https://dcmakerscommunity.org/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="https://dcmakerscommunity.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://dcmakerscommunity.org/about/</link>
+      <pubDate>Sun, 29 Oct 2023 09:07:12 -0500</pubDate>
+      <guid>https://dcmakerscommunity.org/about/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
